@@ -26,8 +26,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+Desktop view
 ![](screenshot/desktop-view.png)
+Desktop active state view
 ![](screenshot/desktop-active-state.png)
 
 
