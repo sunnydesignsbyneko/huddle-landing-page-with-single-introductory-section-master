@@ -61,7 +61,7 @@ For future projects, I want to continue figuring out how to use CSS Grid and Fle
 
 ## Author
 
-- Website - [Sunny]](https://github.com/sunnydesignsbyneko)
+- Website - [Sunny](https://github.com/sunnydesignsbyneko)
 - Frontend Mentor - [@sunnydesignsbyneko](https://www.frontendmentor.io/profile/sunnydesignsbyneko)
 
 ## Acknowledgments
